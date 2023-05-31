@@ -1,13 +1,6 @@
 {
   "mcdonny": [
   {
-    "id": "a123d",
-    "name": "Big Big Burger",
-    "price": 100,
-    "count": 1,
-    "totalPrice": 100
-  },
-  {
     "id": "a234d",
     "name": "Big Big Burger",
     "price": 80,
@@ -51,13 +44,6 @@
   }
 ],
   "cfk": [
-  {
-    "id": "b123c",
-    "name": "Big Big Pizza",
-    "price": 100,
-    "count": 1,
-    "totalPrice": 100
-  },
   {
     "id": "b234c",
     "name": "Big Big Pizza",
@@ -110,13 +96,6 @@
 ],
   "papajyhn": [
   {
-    "id": "h231p",
-    "name": "Big Big Cola",
-    "price": 100,
-    "count": 1,
-    "totalPrice": 100
-  },
-  {
     "id": "h234p",
     "name": "Big Big Cola",
     "price": 80,
@@ -168,13 +147,6 @@
 ], 
   "donmarket": [
   {
-    "id": "k123m",
-    "name": "Big Ice Cream",
-    "price": 100,
-    "count": 1,
-    "totalPrice": 100
-  },
-  {
     "id": "k234m",
     "name": "Big Ice Cream",
     "price": 80,
@@ -218,13 +190,6 @@
   }
 ], 
   "restocafe": [
-  {
-    "id": "r123z",
-    "name": "French Fries",
-    "price": 100,
-    "count": 1,
-    "totalPrice": 100
-  },
   {
     "id": "r234z",
     "name": "French Fries",
