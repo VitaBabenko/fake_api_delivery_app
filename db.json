@@ -3,7 +3,6 @@
   {
     "id": "a123d",
     "name": "Big Big Burger",
-    "photo": "https://drive.google.com/file/d/18pE2Kuy4BZ6CqxQBPR8torknRfpEkfuB/view?usp=sharing",
     "price": 100,
     "count": 1,
     "totalPrice": 100
@@ -11,7 +10,6 @@
   {
     "id": "a234d",
     "name": "Big Big Burger",
-    "photo": "https://www.pexels.com/ru-ru/photo/1633578/",
     "price": 80,
     "count": 1,
     "totalPrice": 80
@@ -19,7 +17,6 @@
   {
     "id": "a345d",
     "name": "Big Big Burger",
-    "photo": "https://ru.depositphotos.com/191783046/stock-photo-fresh-tasty-burger.html",
     "price": 90,
     "count": 1,
     "totalPrice": 90
@@ -27,7 +24,6 @@
   {
     "id": "a456d",
     "name": "Big Big Burger",
-    "photo": "https://ru.depositphotos.com/191783046/stock-photo-fresh-tasty-burger.html",
     "price": 75,
     "count": 1,
     "totalPrice": 75
@@ -35,7 +31,6 @@
   {
     "id": "a567d",
     "name": "Big Big Burger",
-    "photo": "https://ru.depositphotos.com/191783046/stock-photo-fresh-tasty-burger.html",
     "price": 65,
     "count": 1,
     "totalPrice": 65
@@ -43,7 +38,6 @@
   {
     "id": "a678d",
     "name": "Big Big Burger",
-    "photo": "https://ru.depositphotos.com/191783046/stock-photo-fresh-tasty-burger.html",
     "price": 25,
     "count": 1,
     "totalPrice": 25
@@ -51,7 +45,64 @@
   {
     "id": "a789d",
     "name": "Big Big Burger",
-    "photo": "https://ru.depositphotos.com/191783046/stock-photo-fresh-tasty-burger.html",
+    "price": 95,
+    "count": 1,
+    "totalPrice": 95
+  }
+],
+  "cfk": [
+  {
+    "id": "b123c",
+    "name": "Big Big Pizza",
+    "price": 100,
+    "count": 1,
+    "totalPrice": 100
+  },
+  {
+    "id": "b234c",
+    "name": "Big Big Pizza",
+    "price": 80,
+    "count": 1,
+    "totalPrice": 80
+  },
+  {
+    "id": "b345c",
+    "name": "Big Big Pizza",
+    "price": 90,
+    "count": 1,
+    "totalPrice": 90
+  },
+  {
+    "id": "b456c",
+    "name": "Big Big Pizza",
+    "price": 75,
+    "count": 1,
+    "totalPrice": 75
+  },
+  {
+    "id": "b567c",
+    "name": "Big Big Pizza",
+    "price": 65,
+    "count": 1,
+    "totalPrice": 65
+  },
+  {
+    "id": "b6c78",
+    "name": "Big Big Pizza",
+    "price": 25,
+    "count": 1,
+    "totalPrice": 25
+  },
+  {
+    "id": "b789c",
+    "name": "Big Big Pizza",
+    "price": 95,
+    "count": 1,
+    "totalPrice": 95
+  },
+  {
+    "id": "b890c",
+    "name": "Big Big Pizza",
     "price": 95,
     "count": 1,
     "totalPrice": 95
