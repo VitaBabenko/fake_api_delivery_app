@@ -216,5 +216,55 @@
     "count": 1,
     "totalPrice": 95
   }
+], "restocafe": [
+  {
+    "id": "r123z",
+    "name": "French Fries",
+    "price": 100,
+    "count": 1,
+    "totalPrice": 100
+  },
+  {
+    "id": "r234z",
+    "name": "French Fries",
+    "price": 80,
+    "count": 1,
+    "totalPrice": 80
+  },
+  {
+    "id": "r345z",
+    "name": "French Fries",
+    "price": 90,
+    "count": 1,
+    "totalPrice": 90
+  },
+  {
+    "id": "r456z",
+    "name": "French Fries",
+    "price": 75,
+    "count": 1,
+    "totalPrice": 75
+  },
+  {
+    "id": "r567z",
+    "name": "French Fries",
+    "price": 65,
+    "count": 1,
+    "totalPrice": 65
+  },
+  {
+    "id": "r678z",
+    "name": "French Fries",
+    "price": 25,
+    "count": 1,
+    "totalPrice": 25
+  },
+  {
+    "id": "r789z",
+    "name": "French Fries",
+    "price": 95,
+    "count": 1,
+    "totalPrice": 95
+  }
 ]
 }
