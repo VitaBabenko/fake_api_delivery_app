@@ -135,7 +135,7 @@
     "name": "Big Big Cola",
     "price": 75,
     "count": 1,
-    "totalPrice": 75,
+    "totalPrice": 75
   },
   {
     "id": "h567p",
@@ -149,7 +149,7 @@
     "name": "Big Big Cola",
     "price": 25,
     "count": 1,
-    "totalPrice": 25,
+    "totalPrice": 25
   },
   {
     "id": "h789p",
