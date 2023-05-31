@@ -34,13 +34,6 @@
     "price": 25,
     "count": 1,
     "totalPrice": 25
-  },
-  {
-    "id": "a789d",
-    "name": "Big Big Burger",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
   }
 ],
   "cfk": [
@@ -81,13 +74,6 @@
   },
   {
     "id": "b789c",
-    "name": "Big Big Pizza",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
-  },
-  {
-    "id": "b890c",
     "name": "Big Big Pizza",
     "price": 95,
     "count": 1,
@@ -180,13 +166,6 @@
     "price": 25,
     "count": 1,
     "totalPrice": 25
-  },
-  {
-    "id": "k789m",
-    "name": "Big Ice Cream",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
   }
 ], 
   "restocafe": [
@@ -224,13 +203,6 @@
     "price": 25,
     "count": 1,
     "totalPrice": 25
-  },
-  {
-    "id": "r789z",
-    "name": "French Fries",
-    "price": 95,
-    "count": 1,
-    "totalPrice": 95
   }
 ]
 }
