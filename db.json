@@ -1,35 +1,35 @@
 {
   "mcdonny": [
   {
-    "id": "a234d",
+    "id": 1,
     "name": "Big Big Burger",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "a345d",
+    "id": 2,
     "name": "Big Big Burger",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "a456d",
+    "id": 3,
     "name": "Big Big Burger",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "a567d",
+    "id": 4,
     "name": "Big Big Burger",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "a678d",
+    "id": 5,
     "name": "Big Big Burger",
     "price": 25,
     "count": 1,
@@ -38,42 +38,42 @@
 ],
   "cfk": [
   {
-    "id": "b234c",
+    "id": 6,
     "name": "Big Big Pizza",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "b345c",
+    "id": 7,
     "name": "Big Big Pizza",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "b456c",
+    "id": 8,
     "name": "Big Big Pizza",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "b567c",
+    "id": 9,
     "name": "Big Big Pizza",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "b6c78",
+    "id": 10,
     "name": "Big Big Pizza",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "b789c",
+    "id": 11,
     "name": "Big Big Pizza",
     "price": 95,
     "count": 1,
@@ -82,49 +82,49 @@
 ],
   "papajyhn": [
   {
-    "id": "h234p",
+    "id": 12,
     "name": "Big Big Cola",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "h345p",
+    "id": 13,
     "name": "Big Big Cola",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "h456p",
+    "id": 14,
     "name": "Big Big Cola",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "h567p",
+    "id": 15,
     "name": "Big Big Cola",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "h678p",
+    "id": 16,
     "name": "Big Big Cola",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "h789p",
+    "id": 17,
     "name": "Big Big Cola",
     "price": 95,
     "count": 1,
     "totalPrice": 95
   },
   {
-    "id": "h890p",
+    "id": 18,
     "name": "Big Big Cola",
     "price": 95,
     "count": 1,
@@ -133,35 +133,35 @@
 ], 
   "donmarket": [
   {
-    "id": "k234m",
+    "id": 19,
     "name": "Big Ice Cream",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "k345m",
+    "id": 20,
     "name": "Big Ice Cream",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "k456m",
+    "id": 21,
     "name": "Big Ice Cream",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "k567m",
+    "id": 22,
     "name": "Big Ice Cream",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "k678m",
+    "id": 23,
     "name": "Big Ice Cream",
     "price": 25,
     "count": 1,
@@ -170,35 +170,35 @@
 ], 
   "restocafe": [
   {
-    "id": "r234z",
+    "id": 24,
     "name": "French Fries",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "r345z",
+    "id": 25,
     "name": "French Fries",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "r456z",
+    "id": 26,
     "name": "French Fries",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "r567z",
+    "id": 27,
     "name": "French Fries",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "r678z",
+    "id": 28,
     "name": "French Fries",
     "price": 25,
     "count": 1,
@@ -207,196 +207,196 @@
 ],
   "allproducts": [
   {
-    "id": "a234d",
+    "id": 1,
     "name": "Big Big Burger",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "a345d",
+    "id": 2,
     "name": "Big Big Burger",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "a456d",
+    "id": 3,
     "name": "Big Big Burger",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "a567d",
+    "id": 4,
     "name": "Big Big Burger",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "a678d",
+    "id": 5,
     "name": "Big Big Burger",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "b234c",
+    "id": 6,
     "name": "Big Big Pizza",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "b345c",
+    "id": 7,
     "name": "Big Big Pizza",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "b456c",
+    "id": 8,
     "name": "Big Big Pizza",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "b567c",
+    "id": 9,
     "name": "Big Big Pizza",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "b6c78",
+    "id": 10,
     "name": "Big Big Pizza",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "b789c",
+    "id": 11,
     "name": "Big Big Pizza",
     "price": 95,
     "count": 1,
     "totalPrice": 95
   },
   {
-    "id": "h234p",
+    "id": 12,
     "name": "Big Big Cola",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "h345p",
+    "id": 13,
     "name": "Big Big Cola",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "h456p",
+    "id": 14,
     "name": "Big Big Cola",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "h567p",
+    "id": 15,
     "name": "Big Big Cola",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "h678p",
+    "id": 16,
     "name": "Big Big Cola",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "h789p",
+    "id": 17,
     "name": "Big Big Cola",
     "price": 95,
     "count": 1,
     "totalPrice": 95
   },
   {
-    "id": "h890p",
+    "id": 18,
     "name": "Big Big Cola",
     "price": 95,
     "count": 1,
     "totalPrice": 95
   }, 
   {
-    "id": "k234m",
+    "id": 19,
     "name": "Big Ice Cream",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "k345m",
+    "id": 20,
     "name": "Big Ice Cream",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "k456m",
+    "id": 21,
     "name": "Big Ice Cream",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "k567m",
+    "id": 22,
     "name": "Big Ice Cream",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "k678m",
+    "id": 23,
     "name": "Big Ice Cream",
     "price": 25,
     "count": 1,
     "totalPrice": 25
   },
   {
-    "id": "r234z",
+    "id": 24,
     "name": "French Fries",
     "price": 80,
     "count": 1,
     "totalPrice": 80
   },
   {
-    "id": "r345z",
+    "id": 25,
     "name": "French Fries",
     "price": 90,
     "count": 1,
     "totalPrice": 90
   },
   {
-    "id": "r456z",
+    "id": 26,
     "name": "French Fries",
     "price": 75,
     "count": 1,
     "totalPrice": 75
   },
   {
-    "id": "r567z",
+    "id": 27,
     "name": "French Fries",
     "price": 65,
     "count": 1,
     "totalPrice": 65
   },
   {
-    "id": "r678z",
+    "id": 28,
     "name": "French Fries",
     "price": 25,
     "count": 1,
